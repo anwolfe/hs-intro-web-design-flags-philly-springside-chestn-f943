@@ -45,11 +45,52 @@ h3 {
 }
 
 /* Germany */
+#germany div {
+  height: 116px;
+   width: 800px;
+}
+#g1 {
+ background-color: black;
+}
+#g2 {
+  background-color: red;
+}
+#g3 {
+  background-color:yellow;
+}
+
 
 
 /* Lithuania */
+#lithuania div {
+  height: 116px;
+  width: 800px;
+}
+#l1 {
+ background-color: yellow;
+}
+#l2 {
+  background-color: green;
+}
+#l3 {
+  background-color: red;
+}
+
 
 /* Yemen */
+#yemen div {
+  height: 116px;
+  width: 800px;
+}
+#y1 {
+ background-color: red;
+  Margin-bottom:116px;
+}
+#y2 {
+  background-color: black;
+}
+
+
 
 /* The Gambia */
 
@@ -67,7 +108,7 @@ h3 {
 
 /* Denmark */
 
-/* Norway */ 
+/* Norway */
 
 /* Greece */
 
